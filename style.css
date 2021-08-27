@@ -63,3 +63,11 @@ p {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   color: #ff9c6d;
 }
+h5 {
+  font-size: 15px;
+  text-align: center;
+  color: white;
+}
+a {
+  color: lightblue;
+}
